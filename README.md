@@ -1,6 +1,6 @@
 ### Hi there 👋
-*flutter[0.2/1]-doing
-*vue3.x[0.3/1]
+*flutter[0.2/1]-doing 
+*vue3.x[0.3/1] 
 *react[0.0/1]
 *java[0.7/1]
 *C#[0.7/1]
